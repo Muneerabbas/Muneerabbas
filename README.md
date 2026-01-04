@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Muneer Abbas</h1>
 
-<h3 align="center">🚀 Mobile Developer</h3>
+<h3 align="center">🚀 Mobile App Developer</h3>
 
 <p align="center">
 
