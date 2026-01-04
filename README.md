@@ -1,13 +1,14 @@
 <h1 align="center">👋 Hi, I’m Muneer Abbas</h1>
 
-<h3 align="center">🚀 Mobile & Backend Developer</h3>
+<h3 align="center">🚀 Mobile Developer</h3>
 
 <p align="center">
-  I build <b>scalable mobile and backend applications</b> with a strong focus on performance,
-  clean architecture, and real-world usability.
-  <br />
-  I specialize in <b>React Native</b> and also work extensively with <b>Node.js backends</b>.
+
+I enjoy building <b>useful, user-friendly mobile applications</b>
+with a strong focus on both <b>frontend experiences</b> and <b>backend systems</b>.
+I care deeply about clean architecture, performance, and creating apps that feel smooth and intuitive to use.
 </p>
+
 
 <hr />
 
@@ -71,6 +72,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Muneer%20Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p>
+  <a href="mailto:muneer.abbas5678@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <p>
   💼 Open to internships, freelance & full-time opportunities  
