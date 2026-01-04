@@ -65,10 +65,18 @@
 <hr />
 
 <h2>🤝 Let’s Connect</h2>
-<ul>
-  <li>💼 Open to internships, freelance & full-time opportunities</li>
-  <li>📩 Feel free to explore my GitHub and reach out</li>
-</ul>
+
+<p>
+  <a href="https://www.linkedin.com/in/muneer-abass-67a095285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muneer%20Abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  💼 Open to internships, freelance & full-time opportunities  
+  <br />
+  📩 Feel free to connect with me on LinkedIn
+</p>
 
 <p align="center">
   ⭐ If you like my work, consider starring my repositories!
