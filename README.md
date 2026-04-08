@@ -15,6 +15,8 @@ I care deeply about clean architecture, performance, and creating apps that feel
 <h2>🧑‍💻 About Me</h2>
 <ul>
   <li>📱 Strong proficiency in <b>React Native</b></li>
+  <li>⚛️ Experience with <b>React & Next.js</b> for web development</li>
+  <li>🔥 Skilled in <b>Firebase</b> (Auth, Firestore, Storage)</li>
   <li>🧠 Backend experience with <b>Node.js, Express & MongoDB</b></li>
   <li>⚡ Passionate about performance, scalability & clean code</li>
   <li>🎯 Love building end-to-end applications (frontend + backend)</li>
@@ -28,6 +30,12 @@ I care deeply about clean architecture, performance, and creating apps that feel
 <h3>📱 Mobile Development</h3>
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<h3>🌐 Frontend Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
@@ -36,6 +44,7 @@ I care deeply about clean architecture, performance, and creating apps that feel
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 <h3>💻 Programming Languages</h3>
@@ -57,7 +66,9 @@ I care deeply about clean architecture, performance, and creating apps that feel
 <h2>🚀 What I Do Best</h2>
 <ul>
   <li>📱 Build high-quality <b>mobile applications</b></li>
+  <li>⚛️ Develop modern <b>web apps using React & Next.js</b></li>
   <li>🌐 Design and develop <b>RESTful backend APIs</b></li>
+  <li>🔥 Build scalable apps using <b>Firebase services</b></li>
   <li>🔐 Implement authentication & secure data handling</li>
   <li>⚙️ Optimize performance on both frontend & backend</li>
   <li>🧩 Write clean, maintainable, and scalable code</li>
