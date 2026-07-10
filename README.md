@@ -15,6 +15,7 @@ I care deeply about clean architecture, performance, and creating apps that feel
 <h2>🧑‍💻 About Me</h2>
 <ul>
   <li>📱 Strong proficiency in <b>React Native</b></li>
+  <li>🍎 Building native iOS apps with <b>Swift, SwiftUI & UIKit</b></li>
   <li>⚛️ Experience with <b>React & Next.js</b> for web development</li>
   <li>🔥 Skilled in <b>Firebase</b> (Auth, Firestore, Storage)</li>
   <li>🧠 Backend experience with <b>Node.js, Express & MongoDB</b></li>
@@ -26,10 +27,12 @@ I care deeply about clean architecture, performance, and creating apps that feel
 <hr />
 
 <h2>🛠️ Tech Stack</h2>
-
 <h3>📱 Mobile Development</h3>
 <p>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 <h3>🌐 Frontend Development</h3>
@@ -49,11 +52,11 @@ I care deeply about clean architecture, performance, and creating apps that feel
 
 <h3>💻 Programming Languages</h3>
 <p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
 <h3>🎨 Frontend & Styling</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
